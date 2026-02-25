@@ -1,0 +1,1 @@
+Para poder utilizar las funciones del repositorio recomiendo copiar una estructura similar a la presente en los archivos de tests. En el caso de querer graficar el poliedro de un problema de suma constante por filas y columnas usar los scripts dentro de Poliedro3D4D respectivos.
